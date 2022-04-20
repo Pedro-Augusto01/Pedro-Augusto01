@@ -1,10 +1,6 @@
-# Antônio Vinicius 🖖
+# Pedro Augusto 🖖
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pedro-Augusto01)](https://github.com/Pedro-Augusto01)
-<!-- [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/antoniovini)](https://gitlab.com/antoniovini) -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroaugustoff/)](https://www.linkedin.com/in/pedroaugustoff/)
-<!-- [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/175220/antonio-vinicius)](https://pt.stackoverflow.com/users/175220/antonio-vinicius)  -->
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroaug0116@gmail.com)](mailto:pedroaug0116@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pedro-Augusto01)](https://github.com/Pedro-Augusto01) <!-- [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/antoniovini)](https://gitlab.com/antoniovini) --> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroaugustoff/)](https://www.linkedin.com/in/pedroaugustoff/) <!-- [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/175220/antonio-vinicius)](https://pt.stackoverflow.com/users/175220/antonio-vinicius)  --> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroaug0116@gmail.com)](mailto:pedroaug0116@gmail.com)
 
 
 Meu nome é Pedro, sou estudante de Química e apaixonado por desenvolvimento.
